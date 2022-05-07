@@ -1,0 +1,24 @@
+{
+
+"name": "dawn_of_defiance",
+
+"title": "Dawn of Defiance",
+
+"description": "A level 1-20 converted adventure for SW5e",
+
+"author": "Fantasy Flight Games & others",
+
+"version": "1.0.0",
+
+"minimumCoreVersion": "0.5.0",
+
+"compatibleCoreVersion":"1.0.0",
+
+"download": "https://github.com/Jvovillia/dawn_of_defiance_foundryvtt",
+
+"manifest": "https://github.com/Jvovillia/dawn_of_defiance/world.json",
+
+"download": "https://github.com/Jvovillia/dawn_of_defiance_foundryvtt/blob/main/dawn-of-defiance.zip",
+"manifest": "https://github.com/Jvovillia/dawn_of_defiance_foundryvtt/blob/main/dawn-of-defiance/world.json"
+
+}

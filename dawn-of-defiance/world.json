@@ -18,7 +18,5 @@
   "coreVersion": "9.269",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.5.7.2.1.3",
-  "download": "https://github.com/Jvovillia/dawn_of_defiance_foundryvtt/blob/main/dawn-of-defiance.zip",
-  "manifest": "https://github.com/Jvovillia/dawn_of_defiance_foundryvtt/blob/main/dawn-of-defiance/world.json"
+  "systemVersion": "1.5.7.2.1.3"
 }
