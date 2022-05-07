@@ -1,6 +1,6 @@
 {
 
-"name": "dawn-of-defiance",
+"name": "dawnofdefiance",
 
 "title": "Dawn of Defiance",
 
@@ -8,17 +8,17 @@
 
 "author": "Fantasy Flight Games & others",
 
-"version": "0.9.268",
+"version": "9.0.0",
 
 "minimumCoreVersion": "0.5.0",
 
 "compatibleCoreVersion":"1.0.0",
 
-"download": "https://github.com/Jvovillia/dawn_of_defiance_foundryvtt",
+"download": "https://github.com/Jvovillia/dawnofdefiance_foundryvtt",
 
-"manifest": "https://github.com/Jvovillia/dawn_of_defiance/world.json",
+"manifest": "https://github.com/Jvovillia/dawnofdefiance/world.json",
 
-"download": "https://github.com/Jvovillia/dawn-of-defiance/blob/main/dawn-of-defiance.zip?raw=true",
-"manifest": "https://raw.githubusercontent.com/Jvovillia/dawn-of-defiance/main/module.json"
+"download": "https://github.com/Jvovillia/dawnofdefiance/blob/main/dawnofdefiance.zip?raw=true",
+"manifest": "https://raw.githubusercontent.com/Jvovillia/dawnofdefiance/main/module.json"
 
 }
