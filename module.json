@@ -1,6 +1,6 @@
 {
 
-"name": "dawn_of_defiance",
+"name": "dawn-of-defiance",
 
 "title": "Dawn of Defiance",
 
@@ -19,6 +19,6 @@
 "manifest": "https://github.com/Jvovillia/dawn_of_defiance/world.json",
 
 "download": "https://github.com/Jvovillia/dawn_of_defiance_foundryvtt/blob/main/dawn-of-defiance.zip?raw=true",
-"manifest": "https://raw.githubusercontent.com/Jvovillia/dawn_of_defiance_foundryvtt/main/module.json"
+"manifest": "https://raw.githubusercontent.com/Jvovillia/dawn-of-defiance/main/module.json"
 
 }
