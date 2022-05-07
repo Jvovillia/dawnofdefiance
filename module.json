@@ -8,11 +8,11 @@
 
 "author": "Fantasy Flight Games & others",
 
-"version": "9",
+"version": "1.0.0",
 
-"minimumCoreVersion": "0.5.0",
+"minimumCoreVersion": "0.9.2",
 
-"compatibleCoreVersion":"1.0.0",
+"compatibleCoreVersion":"0.9.2",
 
 "download": "https://github.com/Jvovillia/dawnofdefiance_foundryvtt",
 
