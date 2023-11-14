@@ -8,10 +8,9 @@
         }
     ],
     "systems": [
-      {
-        "id": "sw5e",
-        "type": "system",
-      }
+        {
+            "id": "sw5e"
+        }
     ],
     "version": "1.0.0",
     "compatibility": {
