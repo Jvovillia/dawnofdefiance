@@ -1,6 +1,6 @@
 {
 
-"name": "dawnofdefiance",
+"id": "dawnofdefiance",
 
 "title": "Dawn of Defiance",
 
@@ -10,15 +10,13 @@
 
 "version": "1.0.1",
 
-"minimumCoreVersion": "0.8.1",
+"compatibility": {
+    "minimum": 10, // Can't be installed before V10
+    "verified": "10.120", // Verified compatible up to build 10.120
+    "maximum": 11 // Can't be installed after V11
 
-"compatibleCoreVersion": "9",
-
-"download": "https://github.com/Jvovillia/dawnofdefiance_foundryvtt",
-
-"manifest": "https://github.com/Jvovillia/dawnofdefiance/world.json",
-
+  
+"manifest": "https://raw.githubusercontent.com/Jvovillia/dawnofdefiance/main/module.json",
 "download": "https://drive.google.com/uc?export=download&id=1pi46EsNg9B-PrmkXJml2hMDEZdJiIt4k&confirm=t&uuid=313b82a3-d3a2-423e-82e2-039f27e53be8&at=ACjLJWlNla8DGFpSMl7vZV34R_vE:1672986762358",
-"manifest": "https://raw.githubusercontent.com/Jvovillia/dawnofdefiance/main/module.json"
 
 }
