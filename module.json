@@ -1,35 +1,18 @@
 {
   "id": "dawnofdefiance",
   "title": "Dawn of Defiance",
-  "description": "A level 1-20 converted adventure for SW5e",
-  "author": "Fantasy Flight Games & others",
-  
-  "version": "1.1.0",
+  "description": "Dawn of Defiance is the name given to a series of 10 linked adventures that Gamemasters can use to create an entire campaign for their players. Set in the months after the events of Revenge of the Sith, the adventures in the Dawn of Defiance campaign are designed to provide players and GMs with the iconic SW5e experience, set against the backdrop of the tyranny of the Galactic Empire.</p>\n<p>The Dawn of Defiance campaign takes the heroes all the way from 1st level up to 20th level, and features an ongoing storyline that progresses over the course of the campaign. Each adventure can also be played individually, and should provide the heroes with ample challenges to gain two levels per adventure. Gamemasters should feel free to use the Dawn of Defiance adventures either as an entire campaign or as fillers for their own home campaigns",
+  "authors": [
+    {
+    "name": "Fantasy Flight Games"
+    }
+  ],
+  "version": "1.0.0",
   "compatibility": {
-    "verified": "10.291",
-    "minimum": "10"
-  },
-  "scripts": [],
-  "esmodules": [
-    "scripts/aep.js"
-  ],
-  "styles": [
-    "styles/ws.css"
-  ],
-  "languages": [],
+    "minimum": "10",
+    "verified": "11"
 
-  "relationships": {
-    "systems": [
-      {
-        "id": "sw5e",
-        "type": "system",
-        "compatibility": {
-          "minimum": "2.3.1.2.6.1",
-          "verified": "2.3.1.2.6.1"
-        }
-      }
-    ],
-  },
-  "manifest": "https://github.com/Jvovillia/dawnofdefiance/releases/download/release2/module.json",
-  "download": "https://gdirect.cc/dl/NnRjS2NWWmN3WksxVDdEUkY5MjFROGdqN1YxUjNNcVJGSFZ1VEhtanRCWklKV1BVM3ZSVjRuREpHVzF1VnBmOHU3eExMZ0ZMSWZUSjkxNmY4b2dxcG9KWGlTK2FZWkIwbjhOR2JnN2F1Umc9&type=1",
+    "manifest": "https://raw.githubusercontent.com/Jvovillia/dawnofdefiance/main/module.json",
+    "download": "https://gdirect.cc/dl/NnRjS2NWWmN3WksxVDdEUkY5MjFROGdqN1YxUjNNcVJGSFZ1VEhtanRCWklKV1BVM3ZSVjRuREpHVzF1VnBmOHU3eExMZ0ZMSWZUSjkxNmY4b2dxcG9KWGlTK2FZWkIwbjhOR2JnN2F1Umc9&type=1",
+  }
 }
