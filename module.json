@@ -1,23 +1,35 @@
 {
-
-"id": "dawnofdefiance",
-
-"title": "Dawn of Defiance",
-
-"description": "A level 1-20 converted adventure for SW5e",
-
-"author": "Fantasy Flight Games & others",
-
-"version": "1.0.1",
-
-"compatibility": {
-    "minimum": 10, // Can't be installed before V10
-    "verified": "10.120", // Verified compatible up to build 10.120
-    "maximum": 11 // Can't be installed after V11
-
+  "id": "dawnofdefiance",
+  "title": "Dawn of Defiance",
+  "description": "A level 1-20 converted adventure for SW5e",
+  "author": "Fantasy Flight Games & others",
   
-"manifest": "https://github.com/Jvovillia/dawnofdefiance/releases/download/release2/module.json",
-"download": "https://gdirect.cc/dl/NnRjS2NWWmN3WksxVDdEUkY5MjFROGdqN1YxUjNNcVJGSFZ1VEhtanRCWklKV1BVM3ZSVjRuREpHVzF1VnBmOHU3eExMZ0ZMSWZUSjkxNmY4b2dxcG9KWGlTK2FZWkIwbjhOR2JnN2F1Umc9&type=1",
+  "version": "1.1.0",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  },
+  "scripts": [],
+  "esmodules": [
+    "scripts/aep.js"
+  ],
+  "styles": [
+    "styles/ws.css"
+  ],
+  "languages": [],
 
-}
+  "relationships": {
+    "systems": [
+      {
+        "id": "sw5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.3.1.2.6.1",
+          "verified": "2.3.1.2.6.1"
+        }
+      }
+    ],
+  },
+  "manifest": "https://github.com/Jvovillia/dawnofdefiance/releases/download/release2/module.json",
+  "download": "https://gdirect.cc/dl/NnRjS2NWWmN3WksxVDdEUkY5MjFROGdqN1YxUjNNcVJGSFZ1VEhtanRCWklKV1BVM3ZSVjRuREpHVzF1VnBmOHU3eExMZ0ZMSWZUSjkxNmY4b2dxcG9KWGlTK2FZWkIwbjhOR2JnN2F1Umc9&type=1",
 }
