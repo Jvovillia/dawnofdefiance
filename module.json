@@ -12,16 +12,18 @@
             "name": "Fantasy Flight Games"
         }
     ],
-    "systems": [
-        {
-            "id": "sw5e",
-            "type": "system",
-            "compatibility": {
-                "minimum": "2.3.1.2.6.1",
-                "verified": "2.3.1.2.6.1"
-            }
+    "relationships": {
+        "systems": [
+             {
+                "id": "sw5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "2.3.1.2.6.1",
+                    "verified": "2.3.1.2.6.1"
+                }
         }
-    ],
+        ],
     "manifest": "https://raw.githubusercontent.com/Jvovillia/dawnofdefiance/main/module.json",
     "download": "https://wellnessfamilycounseling.com/wp-content/uploads/2024/04/dawnofdefiance.zip"
+}
 }
