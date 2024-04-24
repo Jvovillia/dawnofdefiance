@@ -2,6 +2,7 @@
     "id": "dawnofdefiance",
     "title": "Dawn of Defiance",
     "version": "1.0.0",
+    "coreVersion": "11.315",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
